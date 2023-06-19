@@ -20,8 +20,8 @@ const Footer = () => {
             </div>
             <div className='footer_end'>
                 <span>The aim of the developer should not only to understand the technology but also to master it.</span>
-                <a href="https://github.com/ayushsingh0607" target='_blank'><AiFillGithub size="3rem" /></a>
-                <a href="https://www.linkedin.com/in/ayush-raj-9b4255209/" target='_blank'><AiFillLinkedin size="3rem" /></a>
+                <a href="https://github.com/rohit-gore" target='_blank'><AiFillGithub size="3rem" /></a>
+                <a href="https://www.linkedin.com/in/rohit-gore-12b91623a/" target='_blank'><AiFillLinkedin size="3rem" /></a>
             </div>
         </div>
     )
