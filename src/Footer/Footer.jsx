@@ -11,11 +11,11 @@ const Footer = () => {
             <div className='footer_wrap'>
                 <div className='footer_call'>
                     <span>CALL</span>
-                    <span>9336754117</span>
+                    <span>7218432434</span>
                 </div>
                 <div className='footer_email'>
                     <span>Email</span>
-                    <span>ayushraj0607@gmail.com</span>
+                    <span>rohitgore0904@gmail.com</span>
                 </div>
             </div>
             <div className='footer_end'>
